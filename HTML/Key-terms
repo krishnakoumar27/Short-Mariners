@@ -1,0 +1,51 @@
+- HTML modzilla docs
+- 01-lesson:
+  - <html>
+  - <head>
+  - <body>
+  - <title>
+  - <h1>
+  - <p>
+  - <style>
+  - W3C markup validation service
+  - <html lang="en">
+  - <meta charset='UTF-8'>
+  - <!DOCTYPE html>
+
+- 02-lesson:
+  - <meta name="author" content="dave gray">
+  - <meta name="description" content="this page contains all the things I am learning how to create as I learn HTML.">
+  - <link rel="icon" href="html5.png" type="image/x-icon">
+  - <link rel="stylesheet" href="main.css" type="text/css">
+
+- 03-lesson:
+  - <h2>, <h3>, <h4>, <h5>, <h6>
+  - <hr>
+  - <br>
+  - <em>
+  - <strong>
+  - &nbsp;
+  - &lt;
+  - &gt;
+  - &copy;
+  - <abbr title="Mozilla Developer Network">MDN</abbr>
+  - <address></address>
+  - <!-- -->
+
+- 04-lesson:
+  - <ol>
+  - <ul>
+  - <li>
+  - <dl>
+  - <dt>
+  - <dd>
+
+- 05-lesson:
+  - <a href="https://">MDN</a>
+  - <section id="html">
+  - <nav>
+  - <a href="#">Back to top</a>
+  - <a href="mailto:random@mail.com"> my mail</a>
+  - <a href="tel:+1234567890">Call my number</a>
+  - <a href="https://google.com" target="_blank">Google website</a>
+  - <a href="/"> back to home</a>
