@@ -49,3 +49,47 @@
   - <a href="tel:+1234567890">Call my number</a>
   - <a href="https://google.com" target="_blank">Google website</a>
   - <a href="/"> back to home</a>
+
+- 06-lesson:
+  - <img src= alt= title= width= height= loading="eager or lazy">
+  - <figure>
+  - <figcaption>
+  - <code>
+
+- 07-lesson:
+  - <header>
+  - <main>
+  - <footer>
+  - <nav aria-label="primary-navigation">
+  - <article id="html">
+  - <aside>
+  - <details>
+  - <summary>
+  - <mark>
+  - <time datetime="08:00">8 am</time>
+  - <div>
+  - <span>
+
+- 08-lesson:
+  - <table>
+  - <tr>
+  - <td>
+  - <th>
+  - <td rowspan="2">
+  - <caption>
+  - <th scope="col or row">
+
+- 09-lesson:
+  - <form action="htt" method="get">
+  - <label for= > 
+  - <imput type="text" name="first name" id="first name" placeholder="Doe" autocomplete="on" required> 
+  - <select>
+  - <option>
+  - <optgroup>
+  - <fieldset>
+  - <legend>
+  - <textarea>
+  - <button>
+
+- 10-lesson:
+  - project
